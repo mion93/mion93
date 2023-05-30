@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/miriam-gurrieri-494ba9128" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/miriam-gurrieri-494ba9128" height="30" width="40" /></a>
-<a href="https://instagram.com/milxcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="milxcode" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/miriamhu1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/miriamhu1" height="30" width="40" /></a>
 </p>
 
